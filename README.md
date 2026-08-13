@@ -1,4 +1,4 @@
-### Hi, I'm Chris (Kewen) Chen 👋
+### Hi, I'm Kewen (Chirs) Chen 👋
 
 Software engineer focused on **backend & AI systems**. Currently pursuing dual
 master's degrees (MSCS @ Georgia Tech, MSIS @ Northeastern) and looking for
